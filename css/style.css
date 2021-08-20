@@ -106,6 +106,12 @@ body {
   opacity: 1;
 }
 
+/* PATH */
+
+.home__img path.current__floor {
+  opacity: 1;
+}
+
 /* COUNTER */
 
 .counter__group {
